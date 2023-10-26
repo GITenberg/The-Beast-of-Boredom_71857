@@ -1,0 +1,29 @@
+_repo: The-Beast-of-Boredom_71857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Richard Rein
+    aliases:
+    - Smith, Richard R. (Richard Rein)
+    - Rein Smith, Richard
+    birthdate: 1930
+    gutenberg_agent_id: '33589'
+    url: http://www.gutenberg.org/2009/agents/33589
+description: ''
+gutenberg_issued: '2023-10-12'
+identifiers:
+  gutenberg: '71857'
+language: en
+pgterms:marc905: 20230909113338smith
+pgterms:marc906: '1958'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Beast of Boredom
+url: http://www.gutenberg.org/ebooks/71857
